@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Lösungsformel\bin\Debug\Lösungsformel.exe.config
+C:\Users\Admin\source\repos\Lösungsformel\bin\Debug\Lösungsformel.exe
+C:\Users\Admin\source\repos\Lösungsformel\bin\Debug\Lösungsformel.pdb
+C:\Users\Admin\source\repos\Lösungsformel\obj\Debug\Lösungsformel.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Lösungsformel\obj\Debug\Lösungsformel.Rechner.resources
+C:\Users\Admin\source\repos\Lösungsformel\obj\Debug\Lösungsformel.Properties.Resources.resources
+C:\Users\Admin\source\repos\Lösungsformel\obj\Debug\Lösungsformel.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Lösungsformel\obj\Debug\Lösungsformel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Lösungsformel\obj\Debug\Lösungsformel.exe
+C:\Users\Admin\source\repos\Lösungsformel\obj\Debug\Lösungsformel.pdb
